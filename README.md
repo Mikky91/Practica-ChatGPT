@@ -11,8 +11,8 @@ En esta práctica, he desarrollado una aplicación de ChatGPT utilizando la API 
 ## Características
 * 🗣 Conversación interactiva: Los usuarios pueden tener una conversación bidireccional con el modelo de lenguaje de ChatGPT.
 
-![Captura Consola](https://github.com/Mikky91/chatGPT-practica/blob/master/assets/python%20chat2.jpg)
+![Captura Consola](https://github.com/Mikky91/ChatGPT-Practica/blob/main/assets/python%20chat2.jpg)
 
 * 🖊 Respuestas inteligentes: El modelo de ChatGPT utiliza técnicas de inteligencia artificial para proporcionar respuestas coherentes y contextuales.
 
-![CapturaConsola|100](https://github.com/Mikky91/chatGPT-practica/blob/master/assets/python%20chat.jpg)
+![CapturaConsola|100](https://github.com/Mikky91/ChatGPT-Practica/blob/main/assets/python%20chat.jpg)
